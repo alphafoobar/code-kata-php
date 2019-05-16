@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/alphafoobar/code-kata-php.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-php)
+
 # Code Kata PHP
 
 This implementation is written to PHP 7.2:
