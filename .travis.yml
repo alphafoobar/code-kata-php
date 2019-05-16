@@ -2,3 +2,4 @@ language: php
 dist: xenial
 php:
 - 7.3
+script: phpunit tests
